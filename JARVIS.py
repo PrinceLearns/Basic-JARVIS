@@ -63,7 +63,7 @@ if __name__ == '__main__':
 
 #add more sites
         sites = [["Youtube","https://youtube.com/"], ["chat gpt","https://chatgpt.com/"],]
-        folders = [["Steam","C:\\Users\\Public\\Desktop\\Steam.lnk"], ["Brave", "C:\\Users\\princ\\OneDrive\\Desktop\\Brave.lnk"], ]
+        folders = [["Steam","Your path"], ["Brave", "your path..."], ]
 
         for site in sites:
 
