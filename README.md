@@ -67,4 +67,4 @@ Feel free to add more commands or modify the existing ones to fit your needs!
 - This assistant is built for Windows. It uses `win32com.client` for the text-to-speech functionality, so it might not work on non-Windows systems without modifications.
 
 ## License
-This project is open-source and available under the MIT License. Feel free to contribute, report issues, or improve the project however you like!
+This project is open-source. Feel free to contribute, report issues, or improve the project however you like!
